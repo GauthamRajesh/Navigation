@@ -1,5 +1,5 @@
 # Introduction
-This is my implementation of the first project in the Udacity Deep Reinforcement Learning Nanodegree. Below, I will decsribe some information about this project.
+This is my implementation of the first project in the Udacity Deep Reinforcement Learning Nanodegree. Below, I will describe some information about this project.
 # Project Details
 The project involved working in a Unity environment where the agent had to collect yellow bananas while avoiding the blue bananas. The agent got a reward of +1 for collecting a yellow banana while the reward was -1 for collecting a blue banana. Here are the values for the state and action spaces:
 * State space: 37 dimensions (velocity, perception of objects in front of the agent, etc.)
